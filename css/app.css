@@ -2,10 +2,13 @@ body{
     background-image: url(../images/YS4_5968_69_70-2-3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: 'Josefin Sans', sans-serif;
+    color: whitesmoke;
 
 }
 #nav ul {
     list-style: none;
+    height: 10%;
 
 }
 #nav ul li{
@@ -15,6 +18,31 @@ body{
 
 }
 #nav ul li a{
-    color: whitesmoke;
+    color: seashell;
 
+}
+
+#nav {
+    margin-bottom: 25%
+}
+#about h1{
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-size: 70px;
+    color: seashell;
+
+}
+h4{
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    color: seashell;
+    font-size: 50px;
+}
+
+h2{
+    color: #444547;
+}
+
+#portfolio {
+    margin-top: 29%
 }
