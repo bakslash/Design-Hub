@@ -1,0 +1,20 @@
+body{
+    background-image: url(../images/YS4_5968_69_70-2-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#nav ul {
+    list-style: none;
+
+}
+#nav ul li{
+    float: left;
+    padding-left: 2%;
+
+
+}
+#nav ul li a{
+    color: whitesmoke;
+
+}
