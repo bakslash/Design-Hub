@@ -1,5 +1,5 @@
 body{
-    background-image: url(../images/YS4_5968_69_70-2-3.jpg);
+    background-image: url(../images/bak.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Josefin Sans', sans-serif;
@@ -96,5 +96,5 @@ h2{
     left: 0;
     text-align: left;
     font-size: 0;
-    animation: 17s portfolio infinite;
+    animation: 12s portfolio infinite;
 }
